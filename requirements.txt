@@ -1,0 +1,17 @@
+# Core packages used in the ML notebooks
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+scipy
+joblib
+# Deep learning
+tensorflow
+h5py
+# Notebook environment
+jupyterlab
+ipykernel
+# Optional dataset access
+kaggle
